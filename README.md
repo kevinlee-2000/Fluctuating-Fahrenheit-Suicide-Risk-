@@ -9,6 +9,8 @@ Is there a relationship between temperature trends and number of suicides in New
 
 *Typical refers here to the average seasonal temperature across the years 2008-2014
 
+For full report check out **FinalProject_group021.ipynb**
+
 Contributers:
 - Jonathan Chou
 - Eli Marx-Kahn
