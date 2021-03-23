@@ -1,6 +1,6 @@
 COGS 108 Project from Winter 2021
 
-# Data Science research on temperature and suicide risk
+# Data Science Research on Temperature and Suicide risk
 
 Is there a relationship between temperature trends and number of suicides in New York City? More specifically:
 
